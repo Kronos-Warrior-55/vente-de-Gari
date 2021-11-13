@@ -1,0 +1,44 @@
+h1
+{
+	color: red;
+}
+h2
+{
+	color:  brown;
+}
+h3
+{
+	color: goldenrod;
+}
+p
+{
+	color: darkorange;
+}
+li
+{
+	color: yellowgreen;
+}
+h4
+{
+	color: darkgreen;
+}
+ul
+{
+	color: darkcyan;
+}
+body
+{
+	background-color: darkblue ;
+}
+#carte
+{
+	width: 800px;
+	margin: 0 auto;
+	background-color: ghostwhite ;
+	text-align: center;
+	align-content: center;
+}
+ul li 
+{
+	list-style-type: none;
+}
